@@ -38,4 +38,4 @@ This project is licensed under the terms of the MIT license.
 
 ```
 
-This README provides a brief overview of the script, its features, how to use it, and other relevant information. You can add more sections as needed, such as "Installation", "Tests", or "Contact Information".
+This README provides a brief overview of the script, its features, how to use it, and other relevant information. 
